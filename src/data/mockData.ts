@@ -44,7 +44,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.8,
     reviewCount: 342,
-    image: "../../public/assets/images/calathea.jpg"
+    image: "/assets/images/calathea.jpg"
   },
   {
     id: "2",
@@ -64,7 +64,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.5,
     reviewCount: 215,
-    image: "../../public/assets/images/aloe-vera.jpg"
+    image: "/assets/images/aloe-vera.jpg"
   },
   {
     id: "3",
@@ -85,7 +85,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.9,
     reviewCount: 512,
-    image: "../../public/assets/images/bamboo.jpg"
+    image: "/assets/images/bamboo.jpg"
   },
   {
     id: "4",
@@ -105,7 +105,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.7,
     reviewCount: 189,
-    image: "../../public/assets/images/bird-of-paradise-new.jpg"
+    image: "/assets/images/bird-of-paradise-new.jpg"
   },
   {
     id: "5",
@@ -127,7 +127,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.6,
     reviewCount: 145,
-    image: "../../public/assets/images/bird-of-paradise.jpg"
+    image: "/assets/images/bird-of-paradise.jpg"
   },
   {
     id: "6",
@@ -147,7 +147,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.9,
     reviewCount: 420,
-    image: "../../public/assets/images/cactus.jpg"
+    image: "/assets/images/cactus.jpg"
   },
   {
     id: "7",
@@ -167,7 +167,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.8,
     reviewCount: 310,
-    image: "../../public/assets/images/images3233.jpg"
+    image: "/assets/images/images3233.jpg"
   },
   {
     id: "8",
@@ -188,7 +188,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.5,
     reviewCount: 95,
-    image: "../../public/assets/images/echeveria.jpg"
+    image: "/assets/images/echeveria.jpg"
   },
   {
     id: "9",
@@ -208,7 +208,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.7,
     reviewCount: 275,
-    image: "../../public/assets/images/fiddle-leaf-fig.jpg"
+    image: "/assets/images/fiddle-leaf-fig.jpg"
   },
   {
     id: "10",
@@ -229,7 +229,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.4,
     reviewCount: 88,
-    image: "../../public/assets/images/jade-plant-new.jpg"
+    image: "/assets/images/jade-plant-new.jpg"
   },
   {
     id: "11",
@@ -249,7 +249,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.6,
     reviewCount: 156,
-    image: "../../public/assets/images/mint.jpg"
+    image: "/assets/images/mint.jpg"
   },
   {
     id: "12",
@@ -269,7 +269,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.3,
     reviewCount: 112,
-    image: "../../public/assets/images/spider-plant.jpg"
+    image: "/assets/images/spider-plant.jpg"
   },
   {
     id: "13",
@@ -289,7 +289,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.8,
     reviewCount: 390,
-    image: "../../public/assets/images/monstera.jpg"
+    image: "/assets/images/monstera.jpg"
   },
   {
     id: "14",
@@ -311,7 +311,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.7,
     reviewCount: 134,
-    image: "../../public/assets/images/dracaena.jpg"
+    image: "/assets/images/dracaena.jpg"
   },
   {
     id: "15",
@@ -331,7 +331,7 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.5,
     reviewCount: 205,
-    image: "../../public/assets/images/boston-fern-new.jpg"
+    image: "/assets/images/boston-fern-new.jpg"
   },
   {
     id: "16",
@@ -352,6 +352,6 @@ export const mockPlants: Plant[] = [
     inStock: true,
     rating: 4.6,
     reviewCount: 78,
-    image: "../../public/assets/images/pothos-plant.jpg"
+    image: "/assets/images/pothos-plant.jpg"
   }
 ];
