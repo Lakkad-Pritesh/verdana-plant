@@ -71,7 +71,7 @@ export const Hero: React.FC = () => {
           >
             <div className="relative w-full max-w-md lg:max-w-none lg:w-[90%] h-[500px] lg:h-full rounded-[2rem] overflow-hidden shadow-2xl">
               <img 
-                src="../../public/images/hero1.webp" 
+                src="../../public/assets/images/hero1.webp" 
                 alt="Beautiful indoor plant" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
