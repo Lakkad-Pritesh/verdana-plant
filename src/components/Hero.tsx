@@ -67,16 +67,16 @@ export const Hero: React.FC = () => {
             initial={{ opacity: 0, x: 50 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 1, ease: "easeOut", delay: 0.2 }}
-            className="relative lg:h-[600px] flex justify-center lg:justify-end"
+            className="relative lg:h-150 flex justify-center lg:justify-end"
           >
-            <div className="relative w-full max-w-md lg:max-w-none lg:w-[90%] h-[500px] lg:h-full rounded-[2rem] overflow-hidden shadow-2xl">
+            <div className="relative w-full max-w-md lg:max-w-none lg:w-[90%] h-125 lg:h-full rounded-4xl overflow-hidden shadow-2xl">
               <img 
-                src="../../public/assets/images/hero1.webp" 
+                src="/assets/images/hero1.webp" 
                 alt="Beautiful indoor plant" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
+              <div className="absolute inset-0 bg-linear-to-t from-black/30 to-transparent"></div>
             </div>
             
             {/* Floating Badges */}
